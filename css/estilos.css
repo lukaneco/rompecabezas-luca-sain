@@ -1,0 +1,26 @@
+.pieza{
+    width: 145px;
+    height: 145px;
+    float: left;
+    border: 2px solid rgba(55,0,55,0.405);
+    box-sizing: border-box;
+}
+#juego{
+    width: 450px;
+    height: 450px;
+}
+.letra{
+	font-family: 'Roboto Condensed', sans-serif;
+}
+.letralolxd{
+	font-family: 'FrizQuadrataTT',;
+}
+
+@font-face {
+    font-family:"FrizQuadrataTT";
+    src: url('FrizQuadrataTT.ttf') format('ttf')
+}
+.boton{
+  padding-left: 0;
+  list-style: none;
+}
